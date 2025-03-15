@@ -3,7 +3,7 @@
 # README
 
 ## Project Overview
-This repository contains Jupyter Notebooks related to classification tasks using deep learning models. The notebooks focus on training and evaluating models on specific datasets.
+This repository contains Jupyter Notebooks related to classification tasks using deep learning models on remote sensing images. The notebooks focus on training and evaluating models on specific datasets.
 
 ## Files
 
@@ -14,8 +14,8 @@ This repository contains Jupyter Notebooks related to classification tasks using
 
 ### 2. `ucml_code.ipynb`
 - Contains code for a classification task using deep learning.
-- Implements model training and evaluation procedures.
-- Uses standard machine learning libraries for data handling and processing.
+- Uses DenseNet for training.
+- Includes preprocessing, model architecture, training, and evaluation steps.
 
 ## Requirements
 To run the notebooks, install the required dependencies:
@@ -42,6 +42,4 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 ## Acknowledgments
 - TensorFlow, PyTorch, and Scikit-learn for providing deep learning and machine learning tools.
 - The datasets used in this project.
-
-For any questions or contributions, feel free to open an issue or a pull request!
 
