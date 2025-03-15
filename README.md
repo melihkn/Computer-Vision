@@ -38,8 +38,6 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
    ```
 4. Run the desired notebook to train and evaluate the model.
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 - TensorFlow, PyTorch, and Scikit-learn for providing deep learning and machine learning tools.
